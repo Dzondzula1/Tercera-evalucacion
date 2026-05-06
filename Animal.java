@@ -4,7 +4,6 @@ public class Animal {
     private String tipo;
     private String nombre;
     private Integer edad;
-    private Historico historico;
-    private ArrayList<Diagnostico> diagnosticos;
+    private Integer edad2;
 }
 

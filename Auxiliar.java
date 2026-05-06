@@ -1,2 +1,4 @@
-public class Auxiliar extends Personal {
+public class Auxiliar{
+    private Animal animal;
+
 }
